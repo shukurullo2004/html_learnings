@@ -15,8 +15,8 @@ It has only html codes.
 
 3. Skills and Achievements:
 - Personal Skills: Open-minded, Communication, Cooking, Uzbek language (native)
-- Soft Skills: English language (IELTS 6.0), Korean language (beginner)
-- Technical Skills: Python, HTML, CSS, Google skills
+- Soft Skills: English language (IELTS 6.0), Korean language (intermediate )
+
 - Educational Achievements: 1st place in physics Olympiads at school (3 times), 3rd place in AJOU Olympiads in Tashkent (rewarded with a smartphone)
 
 Feel free to contact me for any further information or inquiries.
