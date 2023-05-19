@@ -22,4 +22,5 @@ This is my portfolio, showcasing my educational background, skills, and achievem
 Feel free to contact me for any further information or inquiries.
 
 Thank you!
-![Uploading Screenshot 2023-05-19 at 2.56.43 PM.png…]()
+<img width="1678" alt="Screenshot 2023-05-19 at 2 56 43 PM" src="https://github.com/shukurullo2004/html_learnings/assets/113255469/b87599ee-ae61-43e9-81d5-998fa684b553">
+
