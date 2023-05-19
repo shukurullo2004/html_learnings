@@ -1,7 +1,7 @@
 # html_learnings
 README:
 
-This is my portfolio, showcasing my educational background, skills, and achievements. Below is a brief overview of the information included:
+This is my html learnings and it has my portfolio, showcasing my educational background, skills, and achievements. Below is a brief overview of the information included:
 
 1. Schools:
 - 6-school (2011-2012)
