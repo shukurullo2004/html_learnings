@@ -22,3 +22,4 @@ This is my portfolio, showcasing my educational background, skills, and achievem
 Feel free to contact me for any further information or inquiries.
 
 Thank you!
+![Uploading Screenshot 2023-05-19 at 2.56.43 PM.png…]()
